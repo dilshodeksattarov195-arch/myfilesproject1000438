@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperronnect",
+        "uuid": 2551788,
+        "checksum": "gxdgn"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
